@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {margin:250px;}
+
+img {
+	float:left;
+}
+
+.division {
+	margin-left: 10px;
+	border: 2px solid #000;
+	width: 100px;
+	
+}
+
+.box1 p{
+	position: absolute;
+	bottom:400px; 
+	color: white;
+}
+
+.box2 p{
+	position: absolute;
+	bottom:200px; 
+	color: white;
+}
+
+
+.box3 p{
+	position: absolute;
+	bottom:400px; 
+	color: white;
+	left: 470px;
+}
+
+.box4 p{
+	position: absolute;
+	bottom:200px; 
+	color: white;
+	left: 470px;
+}
+
+.box5 p{
+	position: absolute;
+	bottom:400px; 
+	color: white;
+	left: 680px;
+}
+
+.box6 p{
+	position: absolute;
+	bottom:200px; 
+	color: white;
+	left: 680px;
+}
+
+
+
